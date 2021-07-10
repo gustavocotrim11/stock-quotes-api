@@ -17,4 +17,4 @@ spring:
       ddl-auto: none
 
 application:
-  description: Projeto criado durante o evento Santander Dev Week como aquecimento para o Bootcamp DIO - Santander Dev Full Stack
+  description: Projeto - API de cotações de ações criado durante o evento Santander Dev Week - Bootcamp DIO - Santander Dev Full Stack
